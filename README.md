@@ -1,2 +1,1 @@
-Primeiro sistema no GIT
-fazendo uma alteração qualquer
+Primeiro sistema no GIT (alterado e atualizado)
